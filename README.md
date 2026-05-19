@@ -55,25 +55,15 @@ const larian = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larianghb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Larian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larianghb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Larian&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=larianghb&theme=tokyonight&hide_border=true)
 
 </div>
 
 > 📌 *Stats only reflect public repositories. Private activity is not shown.*
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark%20x2-0075ca?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 ---
 
