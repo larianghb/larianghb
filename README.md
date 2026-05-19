@@ -13,7 +13,7 @@
 
 *builder of things • breaker of things • occasional coffee addict*
 
-[![Visits](https://komarev.com/ghpvc/?username=Larian&color=blueviolet&style=flat-square&label=profile+views)](https://github.com/Larian)
+[![Visits](https://komarev.com/ghpvc/?username=larianghb&color=blueviolet&style=flat-square&label=profile+views)](https://github.com/Larian)
 
 </div>
 
